@@ -1,16 +1,28 @@
-# quiz_complete_app
+# Quiz App
 
-A new Flutter project.
+This is a developer quiz made with Flutter with nice design, timer and score screen.
 
-## Getting Started
+Il s'agit d'un quiz pour développeur créé avec Flutter avec un beau design, un compte à rebours et un score affiché à la fin du jeu.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Nice design
+- Timer
+- Score screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210310-230928](https://user-images.githubusercontent.com/61854420/110705703-0d997c80-81f7-11eb-8e3b-7ac93c295c36.jpg)
+![Screenshot_20210310-230936](https://user-images.githubusercontent.com/61854420/110705696-0c684f80-81f7-11eb-84ee-e9eb53a1a4c0.jpg)
+![Screenshot_20210310-230948](https://user-images.githubusercontent.com/61854420/110705699-0d00e600-81f7-11eb-89e0-7a750199b57d.jpg)
+![Screenshot_20210310-230955](https://user-images.githubusercontent.com/61854420/110705701-0d00e600-81f7-11eb-8e73-6db3e8e8d0fd.jpg)
+![Screenshot_20210310-231005](https://user-images.githubusercontent.com/61854420/110705702-0d00e600-81f7-11eb-9aa1-5037d3495240.jpg)
+
+## Video demo
+
+
+https://user-images.githubusercontent.com/61854420/110705751-1c802f00-81f7-11eb-9682-f14926c1be4c.mp4
+
+
+
+
