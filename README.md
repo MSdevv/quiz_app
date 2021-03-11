@@ -20,8 +20,8 @@ Il s'agit d'un quiz pour développeur créé avec Flutter avec un beau design, u
 
 ## Video demo
 
+https://user-images.githubusercontent.com/61854420/110783767-2478b700-8269-11eb-9931-e40cc444c2e6.mp4
 
-https://user-images.githubusercontent.com/61854420/110705751-1c802f00-81f7-11eb-9682-f14926c1be4c.mp4
 
 
 
