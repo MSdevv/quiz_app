@@ -7,6 +7,7 @@ Il s'agit d'un quiz pour développeur créé avec Flutter avec un beau design, u
 ## Features
 
 - Nice design
+- GetX (state management)
 - Timer
 - Score screen
 
